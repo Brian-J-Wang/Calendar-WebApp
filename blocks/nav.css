@@ -1,0 +1,20 @@
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+.nav__items {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    margin: auto 15px auto 0px ;
+}
+
+.nav__item {
+    list-style: none;
+    margin: auto 0px auto 30px;
+    
+}
+
